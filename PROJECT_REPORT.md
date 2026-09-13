@@ -11,9 +11,8 @@
 * **Course Type**: Embedded Lab / Project-Based Learning (LP)  
 * **Academic Initiative**: VITyarthi – Build Your Own Project (Flipped Course Evaluation)  
 * **Project Title**: Student Task & Assignment Manager (Academic Coursework & Examination Tracker)  
-* **Student Name**: Venkatesh Shelke  
-* **Email**: venkateshshelke9496@gmail.com  
-* **Academic Year**: 2025–2026  
+* **Student Name**: Shelke Venkatesh Bhalchandra
+* **Academic Year**: 2026–2027  
 * **Department**: School of Computer Science and Engineering  
 * **Institution**: Vellore Institute of Technology (VIT)  
 
