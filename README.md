@@ -3,8 +3,8 @@
 > **Course Code**: CSE2006 – Programming in Java  
 > **Course Type**: Embedded Lab / Project-Based Learning (LP)  
 > **Evaluation**: VITyarthi - Build Your Own Project (Flipped Course Evaluation)  
-> **Developer**: Venkatesh Shelke  
-> **Academic Session**: 2025–2026  
+> **Developer**: Shelke Venkatesh Bhalchandra
+> **Academic Session**: 2026–2027  
 
 ---
 
