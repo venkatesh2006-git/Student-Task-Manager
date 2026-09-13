@@ -1,6 +1,0 @@
-# STUDENT TASK & ASSIGNMENT MANAGER STORAGE FILE
-# Format:
-# ASSIGNMENT|id|title|courseCode|dueDate|isCompleted|subject|maxMarks|submissionPlatform
-# EXAM|id|title|courseCode|dueDate|isCompleted|examType|syllabusTopics|durationMinutes|weightagePercentage
-ASSIGNMENT|1001|Lab 3 Polymorphism|CSE2006|2026-09-20|true|Object Oriented Programming|100.0|Moodle
-EXAM|1002|Mid-Term Examination|CSE2006|2026-10-05|false|CAT-1 Assessment|Inheritance, Polymorphism, Exception Handling|90|30.0
