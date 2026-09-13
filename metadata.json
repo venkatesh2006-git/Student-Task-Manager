@@ -1,0 +1,6 @@
+{
+  "name": "Student Task & Assignment Manager",
+  "description": "A command-line Java application for CSE2006 demonstrating OOP concepts, inheritance, polymorphism, custom exceptions, and file I/O.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
